@@ -5,9 +5,9 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Open up App.js to start working on your app!</Text>
-        <Text>Changes you make will automatically reload.</Text>
-        <Text>Shake your phone to open the developer menu.</Text>
+        <Text>Hello, welcome to Midtown West home group.</Text>
+        <Text>Our aim is to create a safe haven for everyone.</Text>
+        <Text>We will focus on being a community to pursue God.</Text>
       </View>
     );
   }
